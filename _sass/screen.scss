@@ -1,0 +1,78 @@
+body{background:#0a0a0a;
+	font-family:arial;
+	color:#fcfcfc;}
+
+header p{color: #61337e;
+		font-size:35px;
+		position:absolute;
+		top: 70px;
+		left: 125px;}
+
+.logo{padding:30px;}
+
+header{position:relative;}
+
+h1{margin-top:20px;
+	text-transform:uppercase;}
+
+p{color: #61337e;}
+
+label,input{width:100%;
+	display:block;
+	font-weight:normal;}
+
+label{margin-top:50px;
+	font-size:15px;}
+
+.enterinstruct,.required,.ingredientlink,.uploadphoto,.optional{margin-top:50px;
+	color:white;}
+
+.optional{font-style:italic;
+			margin-top:10px;}
+
+h2{font-size:25px;
+	margin-top:30px;}
+
+.required{color:red;
+		margin-top:0px;
+		padding-left:15px;}
+
+label{padding-left: 30px;}
+
+.download label {padding-left:0px;}
+
+.enterinstruct,.download label {font-size:20px;}
+
+.dlbtn{display:inline-block;
+		width:30%;}
+
+.logo{width:300px;}
+
+h1{margin-top:50px;
+	font-size: 25px;}
+
+input{margin:20px;}
+
+.website,.category,.name{width:30%}
+
+.ingredients,.directions{height:100px;
+						width:80%;}
+
+a{border:solid 3px #1197a3;
+			color:#1197a3;
+			font-family:arial;
+			background:white;
+			padding:5px;
+			width:100px;
+			float:right;
+			text-align:center;
+			margin-top:20px;}
+
+a:hover{text-decoration:none;
+		font-weight:bold;
+		color:#1197a3;}
+
+
+.continuebtn{float:right;}
+
+.previousbtn{float:left;}

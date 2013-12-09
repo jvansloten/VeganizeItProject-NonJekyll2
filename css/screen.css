@@ -1,0 +1,152 @@
+/* line 1, ../_sass/screen.scss */
+body {
+  background: #0a0a0a;
+  font-family: arial;
+  color: #fcfcfc;
+}
+
+/* line 5, ../_sass/screen.scss */
+header p {
+  color: #61337e;
+  font-size: 35px;
+  position: absolute;
+  top: 70px;
+  left: 125px;
+}
+
+/* line 11, ../_sass/screen.scss */
+.logo {
+  padding: 30px;
+}
+
+/* line 13, ../_sass/screen.scss */
+header {
+  position: relative;
+}
+
+/* line 15, ../_sass/screen.scss */
+h1 {
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+/* line 18, ../_sass/screen.scss */
+p {
+  color: #61337e;
+}
+
+/* line 20, ../_sass/screen.scss */
+label, input {
+  width: 100%;
+  display: block;
+  font-weight: normal;
+}
+
+/* line 24, ../_sass/screen.scss */
+label {
+  margin-top: 50px;
+  font-size: 15px;
+}
+
+/* line 27, ../_sass/screen.scss */
+.enterinstruct, .required, .ingredientlink, .uploadphoto, .optional {
+  margin-top: 50px;
+  color: white;
+}
+
+/* line 30, ../_sass/screen.scss */
+.optional {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+/* line 33, ../_sass/screen.scss */
+h2 {
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+/* line 36, ../_sass/screen.scss */
+.required {
+  color: red;
+  margin-top: 0px;
+  padding-left: 15px;
+}
+
+/* line 40, ../_sass/screen.scss */
+label {
+  padding-left: 30px;
+}
+
+/* line 42, ../_sass/screen.scss */
+.download label {
+  padding-left: 0px;
+}
+
+/* line 44, ../_sass/screen.scss */
+.enterinstruct, .download label {
+  font-size: 20px;
+}
+
+/* line 46, ../_sass/screen.scss */
+.dlbtn {
+  display: inline-block;
+  width: 30%;
+}
+
+/* line 49, ../_sass/screen.scss */
+.logo {
+  width: 300px;
+}
+
+/* line 51, ../_sass/screen.scss */
+h1 {
+  margin-top: 50px;
+  font-size: 25px;
+}
+
+/* line 54, ../_sass/screen.scss */
+input {
+  margin: 20px;
+}
+
+/* line 56, ../_sass/screen.scss */
+.website, .category, .name {
+  width: 30%;
+}
+
+/* line 58, ../_sass/screen.scss */
+.ingredients, .directions {
+  height: 100px;
+  width: 80%;
+}
+
+/* line 61, ../_sass/screen.scss */
+a {
+  border: solid 3px #1197a3;
+  color: #1197a3;
+  font-family: arial;
+  background: white;
+  padding: 5px;
+  width: 100px;
+  float: right;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* line 71, ../_sass/screen.scss */
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+  color: #1197a3;
+}
+
+/* line 76, ../_sass/screen.scss */
+.continuebtn {
+  float: right;
+}
+
+/* line 78, ../_sass/screen.scss */
+.previousbtn {
+  float: left;
+}
